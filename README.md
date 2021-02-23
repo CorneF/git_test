@@ -1,0 +1,1 @@
+This is Corne's first git project!
